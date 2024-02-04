@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yxrX++G0RaWqSCGCTQmCz20yR0qCvekeTWa/aulx1KqyhO3IJKlgx78PoTbOG5scEVFG/M38s8H38OBApiXA6g==",
+  "success": true,
+  "projectFilePath": "D:\\Универ\\ООП\\Codes\\FlightInformationSystem\\FlightInformationSystem\\FlightInformationSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ПК\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

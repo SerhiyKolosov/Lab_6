@@ -1,0 +1,17 @@
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\obj\Debug\net6.0\FlightInformationSystem.csproj.AssemblyReference.cache
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\obj\Debug\net6.0\FlightInformationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\obj\Debug\net6.0\FlightInformationSystem.AssemblyInfoInputs.cache
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\obj\Debug\net6.0\FlightInformationSystem.AssemblyInfo.cs
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\obj\Debug\net6.0\FlightInformationSystem.csproj.CoreCompileInputs.cache
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\bin\Debug\net6.0\FlightInformationSystem.exe
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\bin\Debug\net6.0\FlightInformationSystem.deps.json
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\bin\Debug\net6.0\FlightInformationSystem.runtimeconfig.json
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\bin\Debug\net6.0\FlightInformationSystem.dll
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\bin\Debug\net6.0\FlightInformationSystem.pdb
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\obj\Debug\net6.0\FlightInformationSystem.csproj.CopyComplete
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\obj\Debug\net6.0\FlightInformationSystem.dll
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\obj\Debug\net6.0\refint\FlightInformationSystem.dll
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\obj\Debug\net6.0\FlightInformationSystem.pdb
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\obj\Debug\net6.0\FlightInformationSystem.genruntimeconfig.cache
+D:\Универ\ООП\Codes\FlightInformationSystem\FlightInformationSystem\obj\Debug\net6.0\ref\FlightInformationSystem.dll
